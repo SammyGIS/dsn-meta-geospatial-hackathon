@@ -38,7 +38,8 @@ This project aims to assess and improve health care facilities' accessibility in
 
 
 ## Web APP Link
-![WEB MAP](https://africageoportal.maps.arcgis.com/apps/webappviewer/index.html?id=129ec4eac15c42e9878df1361ff55d25)
+[WEB MAP](https://africageoportal.maps.arcgis.com/apps/webappviewer/index.html?id=129ec4eac15c42e9878df1361ff55d25).
+
 
 ## Conclusion
 This project provides a comprehensive assessment of health care facilities' accessibility in Zamfara State and offers insights into suitable locations for new facilities. By integrating data analysis and geospatial techniques, we can improve health care accessibility and address the needs of the population effectively.
